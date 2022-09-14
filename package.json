@@ -58,6 +58,7 @@
     "diff": "5.0.0",
     "escape-string-regexp": "4.0.0",
     "find-up": "5.0.0",
+    "get-package-type": "^0.1.0",
     "glob": "8.1.0",
     "he": "1.2.0",
     "js-yaml": "4.1.0",
@@ -138,7 +139,7 @@
   },
   "files": [
     "bin/*mocha*",
-    "lib/**/*.{js,html,json}",
+    "lib/**/*.{js,mjs,html,json}",
     "index.js",
     "mocha.css",
     "mocha.js",
